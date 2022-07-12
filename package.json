@@ -1,0 +1,27 @@
+{
+  "name": "unimapview",
+  "version": "1.0.0",
+  "description": "United Map View Tool",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SungZYP/UniMapView.git"
+  },
+  "keywords": [
+    "United",
+    "Map",
+    "View"
+  ],
+  "author": "SungZYP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SungZYP/UniMapView/issues"
+  },
+  "homepage": "https://github.com/SungZYP/UniMapView#readme"
+}
